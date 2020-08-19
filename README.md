@@ -1,6 +1,6 @@
 # My-Profile
 ![Background](https://github.com/FranciscoBSpadaro/My-Profile/blob/master/background.png)
-# Francisco Bianchi SPadaro  🖖🏽
+# Francisco Bianchi Spadaro  🖖🏽
 Olá, muito prazer, me chamo Francisco Bianchi Spadaro.
 <br/> Estou cursando Análise e Desenvolvimento de Sistemas e os cursos de Programaçao ofericidos por ' Dev Samurai ' Rockeseat ' udemy ' ' curso em video ' entre outros.
 <br/> Meu foco é dominar o JavaScript e com isso dominar o ReactJs, React Native e NodeJs, e tambem atuar como DevOps nas plataformas AWS 'Amazon Web Services '  e IBM CLOUD.
