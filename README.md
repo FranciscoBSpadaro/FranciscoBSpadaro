@@ -9,8 +9,8 @@ Olá, muito prazer, me chamo Francisco Bianchi Spadaro.
 
 <br/> 🚀 Atualmente estou desempregado mas planejo atuar como freelancer
 <br/> 💻💙 Busco colaborar em projetos tanto no Front-end quanto no Back-end usando ReactJs, React Native e NodeJs. 
-<br/> 🤞🏼🤙🏽 Posso tentar te ajudar com HTML,CSS, Javascript,  ReactJs, React Native e NodeJs.
-<br/> 👨🏽‍💻 Minhas stacks favoritas: React Native, ReactJs e NodeJs. (JavaScript).
-<br/> 🏟️🎄🎮🎵 Atividades: Curto praia , natureza , músicas e filmes/seriados em geral.
+<br/>🏽 Posso tentar te ajudar com HTML,CSS, Javascript,  ReactJs, React Native e NodeJs.
+<br/>🏽‍💻 Minhas stacks favoritas: React Native, ReactJs e NodeJs. (JavaScript).
+<br/> 🎄🎵 Atividades: Curto praia , natureza , músicas e filmes/seriados em geral.
 <br/> 📟 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-FranciscoBianchiSpadaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscobspadar/)](https://www.linkedin.com/in/franciscobspadaro/) 
 [![Outlook Badge](https://img.shields.io/badge/-francisco.spadaro@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:francisco.spadaro@outlook.com)](mailto:francisco.spadaro@outlook.com)
