@@ -1,4 +1,3 @@
-# FranciscoBSpadaro
 ![Background](https://github.com/FranciscoBSpadaro/My-Profile/blob/master/background.png)
 # Francisco Bianchi Spadaro  🖖🏽
 Olá, muito prazer, me chamo Francisco Bianchi Spadaro.
