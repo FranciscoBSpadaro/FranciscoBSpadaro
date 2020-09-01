@@ -1,4 +1,4 @@
-![Background](/blob/master/background.png)
+![Background](https://github.com/FranciscoBSpadaro/My-Profile/blob/master/background.png)
 # Francisco Bianchi Spadaro  🖖🏽
 https://fbsdev.netlify.app/
 Olá, muito prazer, me chamo Francisco Bianchi Spadaro.
