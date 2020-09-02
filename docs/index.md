@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+![Background](https://github.com/FranciscoBSpadaro/My-Profile/blob/master/background.png)
+# Francisco Bianchi Spadaro  🖖🏽
+https://fbsdev.netlify.app/
+Olá, muito prazer, me chamo Francisco Bianchi Spadaro.
+<br/> Estou cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera e estou nos cursos de Programação oferecidos por ' Dev Samurai ' Rockeseat ' udemy ' ' curso em video ' entre outros.
+<br/> Meu foco é dominar o JavaScript e com isso dominar o ReactJs, React Native e NodeJs, e tambem atuar como DevOps nas plataformas AWS 'Amazon Web Services '  e IBM CLOUD.
+<br/> Busco sempre melhorar como pessoa e profissional e assim melhorar o mundo e as pessoas ao meu redor.🏽‍💻 🌎
 
-You can use the [editor on GitHub](https://github.com/FranciscoBSpadaro/FranciscoBSpadaro/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br/> 🚀 Atualmente estou desempregado mas planejo atuar como freelancer , programador ou DevOps
+<br/> 💻💙 Busco colaborar em projetos tanto no Front-end quanto no Back-end usando ReactJs, React Native e NodeJs. 
+<br/>🏽 Posso tentar te ajudar com HTML,CSS, Javascript,  ReactJs, React Native e NodeJs.
+<br/>🏽‍💻 Minhas stacks favoritas: React Native, ReactJs e NodeJs. (JavaScript) Python.
+<br/> 🎄🎵 Atividades: Curto praia , natureza , músicas e filmes/seriados em geral.
+<br/> 📟 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-FranciscoBianchiSpadaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscobspadar/)](https://www.linkedin.com/in/franciscobspadaro/) 
+[![Outlook Badge](https://img.shields.io/badge/-francisco.spadaro@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:francisco.spadaro@outlook.com)](mailto:francisco.spadaro@outlook.com)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FranciscoBSpadaro/FranciscoBSpadaro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
