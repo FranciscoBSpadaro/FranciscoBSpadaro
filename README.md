@@ -13,4 +13,4 @@ Olá, 🖖🏽
 <br/> 🎄🎵 Atividades: Curto praia , natureza , músicas e filmes/seriados em geral.
 <br/> 📟 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-FranciscoBianchiSpadaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscobspadar/)](https://www.linkedin.com/in/franciscobspadaro/) 
 [![Outlook Badge](https://img.shields.io/badge/-francisco.spadaro@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:francisco.spadaro@outlook.com)](mailto:francisco.spadaro@outlook.com)
-[Link](https://fbsdev.netlify.app/) < meu site
+[Link](https://fbs-dev.online/) < meu site
