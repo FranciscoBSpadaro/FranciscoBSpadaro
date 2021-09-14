@@ -43,7 +43,7 @@ Onde me encontrar? :mag:
  [![Linkedin Badge](https://img.shields.io/badge/-FranciscoBianchiSpadaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscobspadar/)](https://www.linkedin.com/in/franciscobspadaro/) 
  <br/>
  
-[![Outlook Badge](https://img.shields.io/badge/-francisco.spadaro@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:francisco.spadaro@outlook.com)](mailto:francisco.spadaro@outlook.com)
+ [![Outlook Badge](https://img.shields.io/badge/-francisco.spadaro@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:francisco.spadaro@outlook.com)](mailto:francisco.spadaro@outlook.com)
 
 💻 [Site](https://fbs-dev.netlify.app/)✨✨
 
