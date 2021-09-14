@@ -25,7 +25,6 @@ Olá, 🖖🏽
   </table>
 </center>
 
-### Olá! Sinta se em localhost <img src="https://github.com/FranciscoBSpadaro/FranciscoBSpadaro/blob/main/images/Hi.gif" width="30px">
 
 ---
 
@@ -46,7 +45,7 @@ Tecnologias que pode encontrar nesse perfil:
 Onde me encontrar? :mag:
 
 
-<a href=""><img src="💻" width="16"></img></a> [Site](https://fbs-dev.netlify.app/)
+💻 [Site](https://fbs-dev.netlify.app/)✨✨
 
 ---
 
