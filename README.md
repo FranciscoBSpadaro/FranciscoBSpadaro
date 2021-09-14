@@ -8,9 +8,9 @@ Olá, 🖖🏽
 :octocat:
 <br/> 🚀 Atualmente trabalho como analista de t.i mas procuro oportunidades como dev.
 <br/> 💻💙 Busco colaborar em projetos tanto no Front-end quanto no Back-end usando ReactJs, React Native e NodeJs. 
-<br/>🏽 Posso tentar te ajudar com HTML,CSS, Javascript,  ReactJs, React Native e NodeJs.
-<br/>🏽‍💻 Minhas stacks favoritas: React Native, ReactJs e NodeJs. (JavaScript) Python.
-<br/> Objetivo ser programador full-stack e DevOps
+<br/>Posso tentar te ajudar com HTML,CSS, Javascript,  ReactJs, React Native e NodeJs.
+<br/>💻 Minhas stacks favoritas: React Native, ReactJs e NodeJs. (JavaScript) Python.
+<br/>🚀Objetivo ser programador full-stack e DevOps🚀
 
 <center>
   <table>
