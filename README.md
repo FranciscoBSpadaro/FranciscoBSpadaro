@@ -17,8 +17,8 @@ Olá, 🖖🏽
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBSpadaro&hide=html&layout=compact&theme=merko" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=FranciscoBSpadaro&theme=merko&show_icons=true"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBSpadaro&hide=html&layout=compact&theme=chartreuse-dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=FranciscoBSpadaro&theme=chartreuse-dark&show_icons=true"/></td>
     </tr>   
   </table>
 </center>
