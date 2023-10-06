@@ -1,15 +1,16 @@
 ![Background](https://github.com/FranciscoBSpadaro/My-Profile/blob/master/background.png)
 #
-Olá, 🖖🏽
-<br/> Técnologo Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera e estou nos cursos de Programação oferecidos por ' Dev Samurai ' Rockeseat ' udemy ' ' curso em video ' entre outros.
-<br/> Meu foco é dominar o JavaScript e com isso dominar o ReactJs, React Native e NodeJs, e tambem atuar como DevOps nas plataformas AWS 'Amazon Web Services '  e IBM CLOUD.
+<br/> Olá, 🖖🏽 Sou Técnologo Análise e Desenvolvimento de Sistemas formado pela faculdade Anhanguera e estou nos cursos de Programação oferecidos por ' Dev Samurai ' Rockeseat ' Udemy  entre outros.
+<br/> Meu foco  é atuar como DevOps nas plataformas de cloud como AWS 'Amazon Web Services ' IBM CLOUD, Azure, etc.
+<br/> Pretendo atuar em Cargos como os de Analista de sistemas , Analista de Testes de QA , Desenvolvedor Backend, DevOps , Analista De Banco De Dados (DBA) 
 <br/> Busco sempre melhorar como pessoa e profissional e assim melhorar o mundo e as pessoas ao meu redor.🏽‍💻 🌎
 
 :octocat:
 <br/> 🚀 Atualmente trabalho como analista de t.i mas procuro oportunidades como dev.
 <br/> 💻💙 Busco colaborar em projetos tanto no Front-end quanto no Back-end usando ReactJs, React Native e NodeJs. 
-<br/>Posso tentar te ajudar com HTML,CSS, Javascript,  ReactJs, React Native e NodeJs.
-<br/>💻 Minhas stacks favoritas: React Native, ReactJs e NodeJs. (JavaScript) Python.
+<br/>Posso tentar te ajudar com HTML,CSS, Javascript, Python e NodeJs.
+<br/>💻 Minhas stacks favoritas: Node.js, React, Python, Mysql,Mongodb.
+<br/> Meus Projetos de estudos e casos de uso de aplicações eu busco sempre disponibilizá-los online através de serviços da aws e assim mostro minhas capacidades de DevOps.
 <br/>🚀Objetivo ser programador full-stack e DevOps🚀
 
 <center>
@@ -30,8 +31,8 @@ Tecnologias que pode encontrar nesse perfil:
 
 - Javascript/Typescript
 - HTML e CSS
-- React e React Native
-- Node
+- React
+- Node.js
 - Python
 - Amazon Web Services
 
