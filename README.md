@@ -1,6 +1,6 @@
 ![Background](https://github.com/FranciscoBSpadaro/My-Profile/blob/master/background.png)
 #
-<br/> Olá, 🖖🏽 Sou Técnologo Análise e Desenvolvimento de Sistemas formado pela faculdade Anhanguera e estou nos cursos de Programação oferecidos por ' Dev Samurai ' Rockeseat ' Udemy  entre outros.
+<br/> Olá, 🖖🏽 Sou Técnologo de Análise e Desenvolvimento de Sistemas formado pela faculdade Anhanguera e estou nos cursos de Programação oferecidos por ' Dev Samurai ' Rockeseat ' Udemy  entre outros.
 <br/> Meu foco  é atuar como DevOps nas plataformas de cloud como AWS 'Amazon Web Services ' IBM CLOUD, Azure, etc.
 <br/> Pretendo atuar em Cargos como os de Analista de sistemas , Analista de Testes de QA , Desenvolvedor Backend, DevOps , Analista De Banco De Dados (DBA) 
 <br/> Busco sempre melhorar como pessoa e profissional e assim melhorar o mundo e as pessoas ao meu redor.🏽‍💻 🌎
