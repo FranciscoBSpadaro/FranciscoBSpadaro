@@ -35,6 +35,8 @@ Tecnologias que pode encontrar nesse perfil:
 
 ---
 
+Meus Projetos Privados podem ser disponibilizados para avaliaçâo profissional
+
 Onde me encontrar? :mag:
 
  [![Linkedin Badge](https://img.shields.io/badge/-FranciscoBianchiSpadaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscobspadar/)](https://www.linkedin.com/in/franciscobspadaro/) 
