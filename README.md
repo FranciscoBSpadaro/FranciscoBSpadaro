@@ -1,12 +1,13 @@
 ![Background](https://github.com/FranciscoBSpadaro/My-Profile/blob/master/background.png)
 #
-<br/> Olá, 🖖🏽 Sou Técnologo de Análise e Desenvolvimento de Sistemas formado pela faculdade Anhanguera e me considero um Dev Full Stack e Devops
+<br/> 🤖 Olá, Meu nome é Francisco e sou um Dev Full Stack e Devops .
 <br/> Busco sempre melhorar como pessoa e profissional e assim melhorar o mundo e as pessoas ao meu redor.🏽‍💻 🌎
 
 :octocat:
 <br/> 💻💙 Busco colaborar em projetos tanto no Front-end quanto no Back-end usando React.js,  e Node.js 
-<br/> Meus Projetos  eu busco sempre disponibilizá-los online através de serviços da aws e assim mostro minhas capacidades de DevOps.
-<br/>🚀Vamos construir Apis Robustas e escaláveis 🚀
+<br/> Meus Projetos eu costumo disponibilizá-los online através de serviços da aws e assim mostro minhas capacidades de DevOps.
+<br/>🚀Vamos Construir Apis Robustas e escaláveis 🚀
+<br/>🙋‍♂️ Estou disponível para contratações.
 
 <center>
   <table>
