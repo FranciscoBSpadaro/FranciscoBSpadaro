@@ -61,6 +61,9 @@ Tecnologias que pode encontrar nesse perfil atualmente:
 <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 
+<h3> 👨‍💻 BlockChain 🔗 </h3>
+
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
 
 ---
