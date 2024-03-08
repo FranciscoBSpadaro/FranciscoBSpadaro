@@ -4,8 +4,6 @@
 <br/> 🤖 Olá, Meu nome é Francisco e sou um Dev Full Stack e Devops .
 <br/> Busco sempre melhorar como pessoa e profissional e assim melhorar o mundo e as pessoas ao meu redor.🏽‍💻 🌎
 <br/> Sou um entusiasta das criptomoedas e blockchain 📊📈📉💲
-
-:octocat:
 <br/> 💻💙 Busco colaborar em projetos tanto no Front-end quanto no Back-end usando React.js,  e Node.js 
 <br/> Meus Projetos eu costumo disponibilizá-los online através de serviços da aws e assim mostro minhas capacidades de DevOps.
 <br/>🚀Vamos Construir Apis Robustas e escaláveis 🚀
