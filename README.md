@@ -64,10 +64,11 @@ Tecnologias que pode encontrar nesse perfil atualmente:
 
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
+<h3> 👨‍💻 Api Pagamentos 💲 </h3>
 
----
 <img width="138" alt="insignia" src="https://github.com/FranciscoBSpadaro/FranciscoBSpadaro/assets/69543568/011e7452-d1c5-4d42-a426-ebed6b05dca6">
 
+---
 
 Onde me encontrar? :mag:
 
