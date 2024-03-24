@@ -8,6 +8,7 @@
 <br/> Meus Projetos eu costumo disponibilizá-los online através de serviços da aws e assim mostro minhas capacidades de DevOps.
 <br/>🚀Vamos Construir Apis Robustas e escaláveis 🚀
 <br/>🙋‍♂️ Estou disponível para contratações.
+<br/> Meus Projetos Privados podem ser disponibilizados para avaliaçâo profissional
 
 <center>
   <table>
@@ -67,8 +68,6 @@ Tecnologias que pode encontrar nesse perfil atualmente:
 ---
 <img width="138" alt="insignia" src="https://github.com/FranciscoBSpadaro/FranciscoBSpadaro/assets/69543568/011e7452-d1c5-4d42-a426-ebed6b05dca6">
 
-
-Meus Projetos Privados podem ser disponibilizados para avaliaçâo profissional
 
 Onde me encontrar? :mag:
 
