@@ -18,7 +18,7 @@
     </tr>   
   </table>
 </center>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoBSpadaro)](https://github.com/FranciscoBSpadaro/github-readme-stats)
 
 ---
 
