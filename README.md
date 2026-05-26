@@ -32,6 +32,7 @@ Tecnologias que pode encontrar nesse perfil atualmente:
 - <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 - <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 - <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
+- <a href="https://rust-lang.org/" title="Rust"><img src="https://github.com/get-icon/geticon/blob/master/icons/rust.svg" alt="Rust" width="21px" height="21px"></a>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -74,9 +75,6 @@ Onde me encontrar? :mag:
 
 fbs-dev-pro@proton.me
 
-💻 [Site](https://fbs-dev.netlify.app/)✨✨
-Maintenence
----
 
 ![](https://komarev.com/ghpvc/?username=FranciscoBSpadarol&color=blue&style=flat)
 
