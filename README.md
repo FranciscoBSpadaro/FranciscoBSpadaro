@@ -1,5 +1,4 @@
-![Background](https://github.com/FranciscoBSpadaro/My-Profile/blob/master/background2.png)
-#
+
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 <br/> 🤖 Olá, Meu nome é Francisco e sou um Dev Full Stack e Devops .
 <br/> Busco sempre melhorar como pessoa e profissional e assim melhorar o mundo e as pessoas ao meu redor.🏽‍💻 🌎
@@ -9,6 +8,7 @@
 <br/>🚀Vamos Construir Apis Robustas e escaláveis 🚀
 <br/>🙋‍♂️ Estou disponível para contratações.
 <br/> Meus Projetos Privados podem ser disponibilizados para avaliaçâo profissional
+<br/> Em breve Bots para polymarket disponiveis para vendas.
 
 <center>
   <table>
@@ -72,13 +72,10 @@ Tecnologias que pode encontrar nesse perfil atualmente:
 
 Onde me encontrar? :mag:
 
- [![Linkedin Badge](https://img.shields.io/badge/-FranciscoBianchiSpadaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscobspadar/)](https://www.linkedin.com/in/franciscobspadaro/) 
- <br/>
- 
- [![Outlook Badge](https://img.shields.io/badge/-francisco.spadaro@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:francisco.spadaro@outlook.com)](mailto:francisco.spadaro@outlook.com)
+fbs-dev-pro@proton.me
 
 💻 [Site](https://fbs-dev.netlify.app/)✨✨
-
+Maintenence
 ---
 
 ![](https://komarev.com/ghpvc/?username=FranciscoBSpadarol&color=blue&style=flat)
