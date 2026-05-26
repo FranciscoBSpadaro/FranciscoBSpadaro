@@ -13,7 +13,7 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBSpadaro&hide=html&layout=compact&theme=chartreuse-dark" /></td>
+        <td><img width="400px" align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Ffotos-premium%2Fpainel-de-visualizacao-e-analise-de-dados-gerado-por-ia_547674-1592.jpg&f=1&nofb=1&ipt=212022435fd72aa47233096e8ed90b7240620e6ad711779d09d951b87c36cd07" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=FranciscoBSpadaro&theme=chartreuse-dark&show_icons=true"/></td>
     </tr>   
   </table>
