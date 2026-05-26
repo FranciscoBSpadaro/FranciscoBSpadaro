@@ -14,7 +14,7 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Ffotos-premium%2Fpainel-de-visualizacao-e-analise-de-dados-gerado-por-ia_547674-1592.jpg&f=1&nofb=1&ipt=212022435fd72aa47233096e8ed90b7240620e6ad711779d09d951b87c36cd07" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=FranciscoBSpadaro&theme=chartreuse-dark&show_icons=true"/></td>
+        <td><img width="495px" align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.poly.how%2Fpnl-card-new.png&f=1&nofb=1&ipt=6384c476ff83ef88d101f16406a0c9d05afb7912e1aaf9e61c91c3cf54f4186d"/></td>
     </tr>   
   </table>
 </center>
