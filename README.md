@@ -18,7 +18,7 @@
     </tr>   
   </table>
 </center>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FranciscoBSpadaro)](https://git.io/streak-stats)
+
 
 ---
 
