@@ -80,7 +80,7 @@ Olá! Sou **Francisco**, Desenvolvedor **Full Stack** e **DevOps** dedicado em c
 
 | Plataforma | Information |
 |------------|-------------|
-| 📧 Email | [fbs-dev-pro@proton.me@proton.me](mailto:fbs-dev-pro@proton.me@proton.me) |
+| 📧 Email | [fbs-dev-pro@proton.me](mailto:fbs-dev-pro@proton.me) |
 | 💬 Discord | `blockchain89x` |
 
 ---
