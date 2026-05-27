@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Sobre Mim 🇬🇧 [English version](README.EN.md) |
+## 📋 Sobre Mim  ### 🇬🇧 [English version](README.EN.md) |
 
 Olá! Sou **Francisco**, Desenvolvedor **Full Stack** e **DevOps** dedicado em criar soluções tecnológicas que impactam positivamente o mundo e as pessoas ao meu redor. 🌎
 
