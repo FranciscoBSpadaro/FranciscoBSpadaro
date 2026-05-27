@@ -14,7 +14,7 @@ Olá! Sou **Francisco**, Desenvolvedor **Full Stack** e **DevOps** dedicado em c
 - 🤖 Entusiasta de **criptomoedas** e **blockchain** 📊📈
 - 📦 Próximos lançamentos: **Bots para Polymarket** disponíveis para venda
 
-**🙋‍♂️ Disponível para contratações** | Projetos privados disponíveis para avaliação profissional
+**🙋‍♂️ Disponível para contratações** | "Repositórios de projetos privados disponíveis apenas para avaliação profissional"
 
 ---
 
