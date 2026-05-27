@@ -49,7 +49,8 @@ Olá! Sou **Francisco**, Desenvolvedor **Full Stack** e **DevOps** dedicado em c
 
 ### 💳 APIs de Pagamento
 ![Payment APIs](https://img.shields.io/badge/Payment-APIs-28A745?style=for-the-badge&logo=stripe&logoColor=white)
-<img width="138" alt="insignia" src="https://github.com/FranciscoBSpadaro/FranciscoBSpadaro/assets/69543568/011e7452-d1c5-4d42-a426-ebed6b05dca6">
+<tr><img width="138" alt="insignia" src="https://github.com/FranciscoBSpadaro/FranciscoBSpadaro/assets/69543568/011e7452-d1c5-4d42-a426-ebed6b05dca6"></tr>
+
 ---
 
 ## 📊 Let's Build and Profit Together
