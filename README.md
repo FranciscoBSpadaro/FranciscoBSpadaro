@@ -16,8 +16,7 @@ Olá! Sou **Francisco**, Desenvolvedor **Full Stack** e **DevOps** dedicado em c
 
 **🙋‍♂️ Disponível para contratações** 
 
-| "Repositórios de projetos privados disponíveis apenas para avaliação profissional" |
-
+> *"Repositórios de projetos privados disponíveis apenas para avaliação profissional"* 🔒
 ---
 
 ## 🛠️ Tech Stack
