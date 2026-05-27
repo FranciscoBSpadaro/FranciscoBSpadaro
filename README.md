@@ -75,6 +75,7 @@ Onde me encontrar? :mag:
 
 fbs-dev-pro@proton.me
 
+Discord : blockchain89x
 
 ![](https://komarev.com/ghpvc/?username=FranciscoBSpadarol&color=blue&style=flat)
 
