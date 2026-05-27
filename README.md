@@ -34,7 +34,6 @@ Olá! Sou **Francisco**, Desenvolvedor **Full Stack** e **DevOps** dedicado em c
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,6 +45,7 @@ Olá! Sou **Francisco**, Desenvolvedor **Full Stack** e **DevOps** dedicado em c
 
 ### 🔗 Blockchain & Cryptocurrency
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 💳 APIs de Pagamento
 <tr><img width="138" alt="insignia" src="https://github.com/FranciscoBSpadaro/FranciscoBSpadaro/assets/69543568/011e7452-d1c5-4d42-a426-ebed6b05dca6"></tr>
