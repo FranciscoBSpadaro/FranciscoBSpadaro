@@ -1,4 +1,4 @@
-# 👨🏻‍💻 FBS-DEV | Full Stack & DevOps Developer
+# 👨🏻‍💻 FBS-DEV | Full Stack Dev
 
 > *"O objetivo da programação não é escrever código, mas resolver problemas"* 💡
 
